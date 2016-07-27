@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+  background-color: rgb(200, 100, 100);
+}
+
+.button{
+  background-color: rgb(250, 200, 200);
+  display: inline-block;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+
+.clearfix{
+  clear: both;
+}
+
+#quoteField{
+  font-family: 'Rock Salt', cursive;
+}
+
+h3{
+    font-family: 'Rock Salt', cursive;
+}
